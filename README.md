@@ -1,7 +1,7 @@
 # Cognitive_Modeling
 Github Repository for Cognitive Modeling
 
-Cognitive modeling is an important area for both psychology and cognitive science as both are a study of how the mind works, and modeling cognition can provide very valuable insights into the inner workings of the mind that would be impossible to fully understand by only studying from the outside.
+Cognitive modeling is an important area for both psychology and cognitive science as both are a study of how the mind works, and modeling cognition can provide very valuable insights into the inner workings of the mind that would be impossible to fully understand by only studying from the outside. kjasdnfkbjbsiuebrabfjshjlfAEblfrb
 
 Team Logo:
 
