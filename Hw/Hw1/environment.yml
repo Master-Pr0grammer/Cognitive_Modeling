@@ -1,0 +1,12 @@
+name: home_1_env
+channels: 
+  -defaults 
+dependencies:
+  - python=3.8.9
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - pip: 
+      - numba
